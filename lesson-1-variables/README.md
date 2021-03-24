@@ -29,3 +29,5 @@
 - For adding an element to the array you can use [`array.push`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push)
 - For removing an element with given index you can use [`array.splice`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)
 - Hint you can use `object[fieldName]` to access any field of an object
+
+> All consol.log should look like that: console.log('[SUBTASK-1]', persons) `[SUBTASK-N] result`
