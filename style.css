@@ -1,0 +1,56 @@
+html {
+    background-color: #202124;
+    color: white;
+    font-family: monospace;
+}
+
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+a {
+    color: #10ff4c;
+}
+
+ul {
+    margin: 0;
+}
+
+.lessons {
+    text-align: center;
+    list-style-type: none;
+    padding: 0;
+}
+
+#task-content {
+    text-align: left;
+    padding-right: 20px;
+    width: 80%;
+    height: 100%;
+    margin-bottom: 20px;
+    overflow-y: scroll;
+}
+
+#task-content::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    background-color: transparent;
+}
+
+#task-content::-webkit-scrollbar {
+    width: 12px;
+    background-color: transparent;
+}
+
+#task-content::-webkit-scrollbar-thumb {
+    background-image: linear-gradient(0deg, rgba(63, 186, 132, 1) 0%, rgba(38, 50, 56, 1) 100%);
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;;
+}
