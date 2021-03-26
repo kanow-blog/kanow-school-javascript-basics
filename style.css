@@ -28,12 +28,16 @@ ul {
     padding: 0;
 }
 
+.lessons li {
+    padding: 5px 0;
+}
+
 #task-content {
     text-align: left;
     padding-right: 20px;
     width: 80%;
     height: 100%;
-    margin-bottom: 20px;
+    margin: 20px 0;
     overflow-y: scroll;
 }
 
