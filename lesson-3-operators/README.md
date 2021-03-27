@@ -26,7 +26,7 @@
   b *= 2;
   ++a;
   b++;
-  var result = a++ + --b + ++b;
+  var result = (a++) + (--b) + (++b);
   ```
 
 ## Hints
