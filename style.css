@@ -51,7 +51,7 @@ ul {
     width: 80%;
     height: 100%;
     margin: 20px 0;
-    overflow-y: scroll;
+    overflow-y: auto;
 }
 
 #task-content::-webkit-scrollbar-track {
