@@ -1,4 +1,4 @@
-# If statement
+# Loops
 
 ## Task
 
