@@ -60,6 +60,6 @@ If you followed every step, you should be ready to start using this repository. 
 ## Using this repository
 
 - Open **_kanow-school-javascript-basics_** directory in your terminal / git-bash
-- Run `http-server` inside your terminal / git-bash
+- Run `http-server` inside your terminal / git-bash in root directory
 - Open your web-browser and go under **_http://localhost:8080/_**
 - Now you can modify **index.js** files of lessons you are interested in. After you make any modifications do not forget to refresh your webpage
