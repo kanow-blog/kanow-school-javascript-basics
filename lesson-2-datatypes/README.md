@@ -2,9 +2,9 @@
 
 ## Tasks
 
->After finishing each TASK use the function you have created and print the result of this function.
+> After finishing each TASK use the function you have created and print the result of this function. I encourage you to try to use different values as parameters to get different results (print results of all examples you have made).
 >
->Printing should look like that: ***`console.log('TASK-1', result);`***
+> Printing should look like that: **_`console.log('TASK-1', result);`_**
 
 - **[TASK-1]** Create a function which will take one parameter and check does this parameter is a **number** if yes return **`true`** otherwise return **`false`**
 - **[TASK-2]** Create a function which will take one parameter and check does this parameter is a **string** if yes return **`true`** otherwise return **`false`**
@@ -15,9 +15,9 @@
 - **[TASK-7]** Create a function which will take one parameter and check does this parameter is a **object** if yes return **`true`** otherwise return **`false`**
 - **[TASK-8]** Create a function which will take one parameter and check does this parameter is a **function** if yes return **`true`** otherwise return **`false`**
 
-## Hints
+## Additional information
 
 - For checking the type of the variable you can use [`typeof`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof) operator
 - More informations about JavaScript DataTypes you can find here [**JavaScript data types and data structures**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
 
->Do not check what is `instanceof` we will talk later about this special keyword
+> Do not check what is `instanceof` we will talk later about this special keyword

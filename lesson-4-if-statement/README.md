@@ -1,20 +1,27 @@
 # If statement
 
-## Task
+## Tasks
 
-- **[SUBTASK-1]** Create a function which will take one parameter and then:
+> After finishing each TASK use the function you have created and print the result of this function. I encourage you to try to use different values as parameters to get different results (print results of all examples you have made).
+>
+> Printing should look like that: **_`console.log('TASK-1', result);`_**
 
-  - If parameter is divisble by 2 print ***Divisble by 2***
-  - If parameter is divisble by 3 print ***Divisble by 3***
-  - If paramter is not divisble by 2 or 3 then print ***Not divisble by 2 or 3***
+- **[TASK-1]** Create a function which will take one parameter and then:
 
-- **[SBTASK-2]** Create a function which will take one parameter and then:
+  - If parameter is divisble by 2 print **_Divisble by 2_**
+  - If parameter is divisble by 3 print **_Divisble by 3_**
+  - If paramter is not divisble by 2 or 3 then print **_Not divisble by 2 or 3_**
 
-  - If parameter is divisble by 2 print ***Divisble by 2***
-  - If parameter is divisble by 3 print ***Divisble by 3***
-  - If parameter is divisble by 4 print ***Divisble by 4***
-  - If parameter is divisble by 5 print ***Divisble by 5***
+- **[TASK-2]** Create a function which will take one parameter and then:
 
-## Hints
+  - If parameter is divisble by 2 print **_Divisble by 2_**
+  - If parameter is divisble by 3 print **_Divisble by 3_**
+  - If parameter is divisble by 4 print **_Divisble by 4_**
+  - If parameter is divisble by 5 print **_Divisble by 5_**
 
-- To learn more about JavaScript if statement you can check this link: [**If statement**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)
+- **[TASK-3]** Create a function which will take one parameter then check does parameter is even number if yes return **`true`** otherwise return **`false`** (use **_ternary operator_**)
+
+## Additional information
+
+- To learn more about JavaScript if statement you can check this link: **[If statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)**
+- If you want to learn what is ternary opeator check this link: **[ternary operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)**
