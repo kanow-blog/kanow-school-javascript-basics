@@ -6,18 +6,18 @@
 >
 > Printing should look like that: **_`console.log('TASK-1', result);`_**
 
-- **[TASK-1]** Create a function which will take one parameter and check does this parameter is a **number** if yes return **`true`** otherwise return **`false`**
-- **[TASK-2]** Create a function which will take one parameter and check does this parameter is a **string** if yes return **`true`** otherwise return **`false`**
-- **[TASK-3]** Create a function which will take one parameter and check does this parameter is a **boolean** if yes return **`true`** otherwise return **`false`**
-- **[TASK-4]** Create a function which will take one parameter and check does this parameter is a **bigint** if yes return **`true`** otherwise return **`false`**
-- **[TASK-5]** Create a function which will take one parameter and check does this parameter is a **symbol** if yes return **`true`** otherwise return **`false`**
-- **[TASK-6]** Create a function which will take one parameter and check does this parameter is a **undefined** if yes return **`true`** otherwise return **`false`**
-- **[TASK-7]** Create a function which will take one parameter and check does this parameter is a **object** if yes return **`true`** otherwise return **`false`**
-- **[TASK-8]** Create a function which will take one parameter and check does this parameter is a **function** if yes return **`true`** otherwise return **`false`**
+- **[TASK-1]** Use ***`typeof`*** operator to check the datatype of **`someVariable1`** print the result of this action
+- **[TASK-2]** Use ***`typeof`*** operator to check the datatype of **`someVariable2`**
+- **[TASK-3]** Use ***`typeof`*** operator to check the datatype of **`someVariable3`**
+- **[TASK-4]** Use ***`typeof`*** operator to check the datatype of **`someVariable4`**
+- **[TASK-5]** Use ***`typeof`*** operator to check the datatype of **`someVariable5`**
+- **[TASK-6]** Use ***`typeof`*** operator to check the datatype of **`someVariable6`**
+- **[TASK-7]** Use ***`typeof`*** operator to check the datatype of **`someVariable7`**
+- **[TASK-8]** Use ***`typeof`*** operator to check the datatype of **`someVariable8`**
 
 ## Additional information
 
-- For checking the type of the variable you can use [`typeof`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof) operator
-- More informations about JavaScript DataTypes you can find here [**JavaScript data types and data structures**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
+- For checking the type of the variable you can use **[`typeof`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof)** operator
+- More informations about JavaScript DataTypes you can find here **[JavaScript data types and data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)**
 
 > Do not check what is `instanceof` we will talk later about this special keyword
