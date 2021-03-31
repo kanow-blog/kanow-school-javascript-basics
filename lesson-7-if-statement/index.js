@@ -42,16 +42,12 @@ console.log('TASK-2', checkIfDivisibleBy2Or3Or4Or5(120));
 
 //Task-3
 
-var isEven = 'true';
-var notEven = 'false';
-var isEven = 8 % 2 === 0 ? isEven : notEven;
-console.log('TASK-3', isEven);
-/*
-function checkIfIsEvenNumber(valueA) {
-    return valueA % 2 === 0;
+function isEvenNumber(valueA) {
+    return valueA % 2 === 0 ? 'isEven' : 'notEven';
 }
-console.log('TASK-3', checkIfIsEvenNumber(8));
-console.log('TASK-3', checkIfIsEvenNumber(0));
-console.log('TASK-3', checkIfIsEvenNumber(13));
-console.log('TASK-3', checkIfIsEvenNumber(-2));
-*/
+console.log('TASK-3', isEvenNumber(8));
+console.log('TASK-3', isEvenNumber(0));
+console.log('TASK-3', isEvenNumber(13));
+console.log('TASK-3', isEvenNumber(-2)); 
+
+
