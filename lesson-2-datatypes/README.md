@@ -2,11 +2,9 @@
 
 ## Tasks
 
-> After finishing each TASK use the function you have created and print the result of this function. I encourage you to try to use different values as parameters to get different results (print results of all examples you have made).
->
-> Printing should look like that: **_`console.log('TASK-1', result);`_**
+> After finishing each TASK print the result so for example for: `console.log('TASK-1', typeof someVariable1)`
 
-- **[TASK-1]** Use ***`typeof`*** operator to check the datatype of **`someVariable1`** print the result of this action
+- **[TASK-1]** Use ***`typeof`*** operator to check the datatype of **`someVariable1`**
 - **[TASK-2]** Use ***`typeof`*** operator to check the datatype of **`someVariable2`**
 - **[TASK-3]** Use ***`typeof`*** operator to check the datatype of **`someVariable3`**
 - **[TASK-4]** Use ***`typeof`*** operator to check the datatype of **`someVariable4`**
