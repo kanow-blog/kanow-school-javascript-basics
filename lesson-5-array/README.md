@@ -6,6 +6,6 @@
 >
 > Printing should look like that: **_`console.log('TASK-1', result);`_**
 
-- **[TASK-1]** 
+- **[TASK-1]**
 
 ## Additional information

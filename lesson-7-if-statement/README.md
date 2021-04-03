@@ -19,7 +19,7 @@
   - If parameter is divisble by 4 print **_Divisble by 4_**
   - If parameter is divisble by 5 print **_Divisble by 5_**
 
-- **[TASK-3]** Create a function which will take one parameter then check does parameter is even number if yes return **`true`** otherwise return **`false`** (use **_ternary operator_**)
+- **[TASK-3]** Create a function which will take one parameter then check does parameter is even number if yes return **`'Even number'`** otherwise return **`Odd number`** (use **_ternary operator_**)
 
 ## Additional information
 
