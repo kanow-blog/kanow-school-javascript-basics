@@ -38,6 +38,7 @@
 ## Additional information
 
 - How to create an object: **[Object initializer](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer)**
+- How to remove field from object: **[delete operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/delete)**
 - More about object and object built in methods you can find here: **[Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)**
 - What is the meaning of **_this_** inside object: **[this as an object method](https://developer.mozilla.org/pl/docs/Web/JavaScript/Reference/Operators/this#as_an_object_method)**
 

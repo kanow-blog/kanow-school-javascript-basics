@@ -23,16 +23,19 @@
   - **`const`** variable _`item1`_ put any item name which you can hold in your room
   - **`let`** variable _`itemsCunt`_ which will hold all room items count (for example 2)
   - Under `console.log('TASK-4 -> ROOM variables')` print all **_ROOM_** variables
+- **[TASK-5]** Print _`var person`_ in every scope from which you can accesss this variable
+- **[TASK-6]** Print all variables which you can access inside **_`exampleFunction`_** scope
+- **[TASK-7]** Create a function from which you will be able to access **_SHOP_** variables
+- **[TASK-8]** Create a function from which you will be able to access **_SHOP_** variables
+- **[TASK-9]** Create a function from which you will be able to access **_HOUSE_** and **_ROOM_** variables
+
+## Questions
+
 - **[QUESTION-1]** Can you access _`item1`_ variable from **_HOUSE_** scope? Explain your answer
 - **[QUESTION-2]** Can you access _`room1`_ variable from **_ROOM_** scope? Explain your answer
 - **[QUESTION-3]** Can you access _`product1`_ variable from **_OUTSIDE_WORLD_** scope? Explain your answer
-- **[TASK-5]** Print _`var person`_ in every scope from which you can accesss this variable
-- **[TASK-5]** Print all variables which you can access inside **_`exampleFunction`_** scope
-- **[QUESTION-4]** Why you can access _`person`_ variable in every scope ?
+- **[QUESTION-4]** Why you can access _`person`_ variable in every scope ? Explain your answer
 - **[QUESTION-5]** Can you access _`person2`_ variable outside **_`exampleFunction`_** scope ? Explain your answer
-- **[TASK-6]** Create a function from which you will be able to access **_SHOP_** variables
-- **[TASK-7]** Create a function from which you will be able to access **_SHOP_** variables
-- **[TASK-8]** Create a function from which you will be able to access **_HOUSE_** and **_ROOM_** variables
 
 ## Additional information
 

@@ -36,6 +36,7 @@ function exampleFunction() {
 
 exampleFunction();
 console.log('~~MAIN END');
+
 console.log('QUESTION-1: ', 'PUT YOUR ANSWEAR HERE');
 console.log('QUESTION-2: ', 'PUT YOUR ANSWEAR HERE');
 console.log('QUESTION-3: ', 'PUT YOUR ANSWEAR HERE');
