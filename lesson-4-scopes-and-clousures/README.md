@@ -39,3 +39,4 @@
 - To learn more about **_global scope_** you can visit this link: **[Global scope](https://developer.mozilla.org/en-US/docs/Glossary/Global_scope)**
 - To learn more about **_scopes_** you can visit this link: **[Scope](https://developer.mozilla.org/en-US/docs/Glossary/Scope)**
 - To learn more about **_closure_** you can visit this link: **[Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)**
+- To learn more about **_hoisting_** you can visit this link: **[Hoisting](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)**
