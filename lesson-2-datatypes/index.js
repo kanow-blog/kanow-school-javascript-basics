@@ -29,3 +29,5 @@ var someVariable8 = function () {};
 //TASK 7
 
 //TASK 8
+
+console.log('QUESTION-1', 'PUT YOUR ANSWER HERE');

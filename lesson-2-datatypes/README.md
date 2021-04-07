@@ -12,6 +12,12 @@
 - **[TASK-6]** Use ***`typeof`*** operator to check the datatype of **`someVariable6`**
 - **[TASK-7]** Use ***`typeof`*** operator to check the datatype of **`someVariable7`**
 - **[TASK-8]** Use ***`typeof`*** operator to check the datatype of **`someVariable8`**
+- **[TASK-9]** Use *`console.log('type name a, type name b')`* and print all primitive types
+- **[TASK-10]** Use *`console.log('type name a, type name b')`* and print all non-primitive types
+
+## Questions
+
+- **[QUESTION-1]** Do you think the data types are important?
 
 ## Additional information
 
