@@ -10,3 +10,5 @@ void readmeLoader();
 //TASK 4
 
 //TASK 5
+
+console.log('QUESTION-1', 'PUT YOUR ANSWER HERE');
