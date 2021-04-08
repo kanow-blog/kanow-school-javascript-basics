@@ -16,4 +16,8 @@
 
 ## Additional information
 
+## Questions
+
+- **[QUESTION-1]** When you should use **switch statement**?
+
 - To learn more about JavaScript switch case you can check this link: [**Switch case**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)
