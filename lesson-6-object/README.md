@@ -17,9 +17,10 @@
   - **`country`** -> **_string_** field
   - **`city`** -> **_string_** field
   - **`zipCode`** -> **_string_** field
-- **[TASK-4]** Add **_function_** **`addField`** to **`person`** object. This function should take 2 parameters
+- **[TASK-4]** Add filed **`addField`** which will be a **_function_** to **`person`** object. This function should take 2 parameters
   _`name`_ and _`value`_. This function should add field with given name to **`person`** object
-- **[TASK-5]** Add **_function_** **`addFamiyMember`** to **`person`** object. This function should take 1 parameter
+- **[TASK-5]** Add field **`addFamiyMember`** which will be a **_function_** to **`person`** object. This function 
+  should take 1 parameter
   which should allow adding new persons to current **`person`** **`familyMembers`** array
 - **[TASK-6]** Using method that you have created in **TASK-4** add **`eyeColor`** field with _`green`_ value to
   **`person`** object

@@ -13,8 +13,8 @@
 - **[TASK-5]** Remove last element of **`numbersArray`**
 - **[TASK-6]** Remove the second element of **`numbersArray`**
 - **[TASK-7]** Find the index of value **5** of **`numbersArray`**
-- **[TASK-8]** Create a function **_`createOnesMatrix`_** which will take 2 parameters, **`rowsCount`** and **`columnsCount`** create matrix (array of arrays) and fill all cells with this matrix with value **1**
-- **[TASK-9]** Create a matrix with function which you have created in the previous task and print the value which is inside first rows and first column
+- **[TASK-8]** Create a matrix with function which you have created in the previous task and print the value which 
+  is inside first rows and first column
 
 ## Questions
 
