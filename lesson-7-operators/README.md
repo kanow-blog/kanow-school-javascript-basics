@@ -23,7 +23,25 @@
 ## Questions
 
 - **[QUESTION-1]** What is the difference between `==` and `===`
-- **[QUESTION-2]** What will be the reult of this code:
+- **[QUESTION-2]** What are all truthy types.
+
+  Truthy types are types which will return **`true`** after `==` to **`true`**. For example:
+
+  ```javascript
+   const someText = 'text';
+   someText == true // will return true
+  ```
+
+- **[QUESTION-3]** What are all falsy types.
+
+  Falsy types are types which will return **`true`** after `==` to **`false`**. For example:
+
+  ```javascript
+   const someText = '';
+   someText == false // will return true
+  ```
+
+- **[QUESTION-4]** What will be the reult of this code:
 
   ```javascript
   var a = 10;
