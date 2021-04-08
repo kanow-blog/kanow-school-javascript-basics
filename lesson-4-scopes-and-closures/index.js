@@ -37,8 +37,8 @@ function exampleFunction() {
 exampleFunction();
 console.log('~~MAIN END');
 
-console.log('QUESTION-1: ', 'PUT YOUR ANSWEAR HERE');
-console.log('QUESTION-2: ', 'PUT YOUR ANSWEAR HERE');
-console.log('QUESTION-3: ', 'PUT YOUR ANSWEAR HERE');
-console.log('QUESTION-4: ', 'PUT YOUR ANSWEAR HERE');
-console.log('QUESTION-5: ', 'PUT YOUR ANSWEAR HERE');
+console.log('QUESTION-1: ', 'PUT YOUR ANSWER HERE');
+console.log('QUESTION-2: ', 'PUT YOUR ANSWER HERE');
+console.log('QUESTION-3: ', 'PUT YOUR ANSWER HERE');
+console.log('QUESTION-4: ', 'PUT YOUR ANSWER HERE');
+console.log('QUESTION-5: ', 'PUT YOUR ANSWER HERE');

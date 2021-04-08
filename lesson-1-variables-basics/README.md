@@ -9,7 +9,7 @@
 
 ## Questions
 
-- **[QUESTION-1]** In your words, try to explain what a variable is. You can give an example
+- **[QUESTION-1]** In your words, try to explain what is a variable. You can give an example
 
 ## Additional information
 

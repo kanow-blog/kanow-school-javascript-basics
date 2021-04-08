@@ -63,7 +63,7 @@
   var result = a++ + --b;
   ```
 
-  Answear: **`// result = 10 + 19`**
+  ANSWER: **`// result = 10 + 19`**
 
 ## Additional information
 
