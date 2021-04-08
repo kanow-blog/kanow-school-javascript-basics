@@ -21,6 +21,10 @@
 
 - **[TASK-3]** Create a function which will take one parameter then check does parameter is even number if yes return **`'Even number'`** otherwise return **`Odd number`** (use **_ternary operator_**)
 
+## Questions
+
+- **[QUESTION-1]** Where you should use **ternary operator** and when you shouldn't use this operator?
+
 ## Additional information
 
 - To learn more about JavaScript if statement you can check this link: **[If statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)**
