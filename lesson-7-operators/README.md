@@ -14,10 +14,10 @@
 - **[TASK-6]** Create a function which will take two parameters and return division result of those two parameters
 - **[TASK-7]** Create a function which will take two parameters and check does first is divisible by second parameter if yes return **`true`** otherwise return **`false`**
 - **[TASK-8]** Create a function which will take three parameters and check does first is divisible by second and third parameter if yes return **`true`** otherwise return **`false`**
-- **[TASK-9]** Create a function which will take two parameters and check does first parameter is bigger then second paramter if yes return **`true`** otherwise return **`false`**
-- **[TASK-10]** Create a function which will take two parameters and check does first parameter is smaller then second paramter if yes return **`true`** otherwise return **`false`**
-- **[TASK-11]** Create a function which will take two parameters and check does first parameter is bigger or equal then second paramter if yes return **`true`** otherwise return **`false`**
-- **[TASK-12]** Create a function which will take two parameters and check does first parameter is smaller or equal then second paramter if yes return **`true`** otherwise return **`false`**
+- **[TASK-9]** Create a function which will take two parameters and check does first parameter is bigger than second parameter if yes return **`true`** otherwise return **`false`**
+- **[TASK-10]** Create a function which will take two parameters and check does first parameter is smaller than second parameter if yes return **`true`** otherwise return **`false`**
+- **[TASK-11]** Create a function which will take two parameters and check does first parameter is bigger or equal then second parameter if yes return **`true`** otherwise return **`false`**
+- **[TASK-12]** Create a function which will take two parameters and check does first parameter is smaller or equal then second parameter if yes return **`true`** otherwise return **`false`**
 - **[TASK-13]** Create a function which will take two parameters and return exponentiation result of those two parameters. First parameter should be a power base and second should be the exponent of the power (**[POWER](https://www.mathplanet.com/Oldsite/media/36392/bild2.jpg)**)
 
 ## Questions
@@ -41,7 +41,7 @@
    someText == false // will return true
   ```
 
-- **[QUESTION-4]** What will be the reult of this code:
+- **[QUESTION-4]** What will be the result of this code:
 
   ```javascript
   var a = 10;

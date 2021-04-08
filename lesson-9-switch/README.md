@@ -6,7 +6,7 @@
 >
 > Printing should look like that: **_`console.log('TASK-1', result);`_**
 
-- **[TASK-1]** Create a function which will take one parameter. Value of this parmeter can be: **_tiger_**, **_husky_**, **_spider_** or **_shark_**. Then basing on parameter value print:
+- **[TASK-1]** Create a function which will take one parameter. Value of this parameter can be: **_tiger_**, **_husky_**, **_spider_** or **_shark_**. Then basing on parameter value print:
 
   - If value of the parameter is **_tiger_** print: **`Animal [parameter value] is a cat`**
   - If value of the parameter is **_husky_** print **`Animal [parameter value] is a dog`**

@@ -22,6 +22,6 @@
 ## Additional information
 
 - For checking the type of the variable you can use **[`typeof`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof)** operator
-- More informations about JavaScript DataTypes you can find here **[JavaScript data types and data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)**
+- More information about JavaScript DataTypes you can find here **[JavaScript data types and data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)**
 
 > Do not check what is `instanceof` we will talk later about this special keyword

@@ -18,10 +18,10 @@
 
   function should print: **_firstName_**, **_lastName_** and **_age_**
 
-- **[TASK-2]** Create a two functions that will print all array values (use **_for ... of_** for first function and regular **_for_** for second function)
+- **[TASK-2]** Create two functions that will print all array values (use **_for ... of_** for first function and regular **_for_** for second function)
 - **[TASK-3]** Create a function that will print the values of an array until it reaches the middle of an array (use **_while_**)
 - **[TASK-4]** Create a function that will print every second value of an array (use **_continue_**)
-- **[TASK-5]** Create a function that will print all elments of an array but will finish the work if element value equals 4 (use **_break_**)
+- **[TASK-5]** Create a function that will print all elements of an array but will finish the work if element value equals 4 (use **_break_**)
 
 ## Additional information
 

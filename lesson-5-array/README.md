@@ -2,18 +2,18 @@
 
 ## Tasks
 
-> After finishing each TASK print an array which you have modyfied
+> After finishing each TASK print an array which you have modified
 >
 > Printing should look like that: **_`console.log('TASK-1', array);`_**
 
 - **[TASK-1]** Create variable **`numbersArray`** and initialize this array with 5 numbers (1, 2, 3, 4, 5)
-- **[TASK-2]** Print the elemnt under 2'nd index of **`numbersArray`**
+- **[TASK-2]** Print the element under 2'nd index of **`numbersArray`**
 - **[TASK-3]** Add value **10** on the top of **`numbersArray`**
 - **[TASK-4]** Add value **-1** on the beginning of **`numbersArray`**
 - **[TASK-5]** Remove last element of **`numbersArray`**
-- **[TASK-6]** Remove the second elemnt of **`numbersArray`**
+- **[TASK-6]** Remove the second element of **`numbersArray`**
 - **[TASK-7]** Find the index of value **5** of **`numbersArray`**
-- **[TASK-8]** Create a function **_`createOnesMatrix`_** which will take 2 parameters, **`rowsCount`** and **`columnsCount`** create matrix (array of arrays) and fill all cells of this matrix with value **1**
+- **[TASK-8]** Create a function **_`createOnesMatrix`_** which will take 2 parameters, **`rowsCount`** and **`columnsCount`** create matrix (array of arrays) and fill all cells with this matrix with value **1**
 - **[TASK-9]** Create a matrix with function which you have created in the previous task and print the value which is inside first rows and first column
 
 ## Questions
