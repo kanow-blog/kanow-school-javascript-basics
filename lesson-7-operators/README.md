@@ -18,8 +18,12 @@
 - **[TASK-10]** Create a function which will take two parameters and check does first parameter is smaller then second paramter if yes return **`true`** otherwise return **`false`**
 - **[TASK-11]** Create a function which will take two parameters and check does first parameter is bigger or equal then second paramter if yes return **`true`** otherwise return **`false`**
 - **[TASK-12]** Create a function which will take two parameters and check does first parameter is smaller or equal then second paramter if yes return **`true`** otherwise return **`false`**
-- **[TASK-13]** Create a function which will take two parameters and return exponentiation result of those two parameters. First parameter should be a power base and second should be the exponent of the power ([**POWER**](https://www.mathplanet.com/Oldsite/media/36392/bild2.jpg))
-- **[TASK-14]** What will be the reult of this code:
+- **[TASK-13]** Create a function which will take two parameters and return exponentiation result of those two parameters. First parameter should be a power base and second should be the exponent of the power (**[POWER](https://www.mathplanet.com/Oldsite/media/36392/bild2.jpg)**)
+
+## Questions
+
+- **[QUESTION-1]** What is the difference between `==` and `===`
+- **[QUESTION-2]** What will be the reult of this code:
 
   ```javascript
   var a = 10;
