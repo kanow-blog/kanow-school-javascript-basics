@@ -14,10 +14,10 @@
   - If value of the parameter is **_shark_** print **`Animal [parameter value] is a fish`**
   - If value of the parameter doesn't mach any of the following criteria then print **`[parameter value]` is unexpected animal**
 
-## Additional information
-
 ## Questions
 
 - **[QUESTION-1]** When you should use **switch statement**?
+
+## Additional information
 
 - To learn more about JavaScript switch case you can check this link: [**Switch case**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)

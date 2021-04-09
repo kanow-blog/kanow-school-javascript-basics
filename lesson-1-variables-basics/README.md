@@ -1,4 +1,4 @@
-# Variables
+# Variables basics
 
 > After finishing each TASK print the result so for example for: `console.log('TASK-1', firstName)`
 

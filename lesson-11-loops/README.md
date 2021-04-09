@@ -37,4 +37,4 @@
 - To learn more about **_do...while_** you can visit this link **[do...while loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/do...while)**
 - To learn more about **_do...while_** you can visit this link **[forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)**
 - To learn more about **_break_** you can visit this link **[break](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/break)**
-- To learn more about **_continue_** you can visit this link **[break](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/continue)**
+- To learn more about **_continue_** you can visit this link **[continue](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/continue)**
