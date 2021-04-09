@@ -3,7 +3,7 @@
 ## Tasks
 
 - **[TASK-1]** Attach JavaScript from **cdn** in the _`<head>`_ section of _index.html_ file which you can find in **lesson-0-attaching-script** directory. Use this **cdn** url _`https://cdn.jsdelivr.net/npm/marked/marked.min.js`_ as _`src`_ attribute of your _`<script>`_ tag
-- **[TASK-2]** Attach JavaScript file in the end of _`<body>`_ section of index.html file. Add _`type="module"`_ to your _`<script>`_ tag and use **_`index.js`_** which you can find inside this lesson directory as _`src`_
+- **[TASK-2]** Attach JavaScript files in the end of _`<body>`_ section of index.html file. Add _`type="module"`_ to your _`<script>`_ tag and use **_`index.js`_** which you can find inside this lesson directory as _`src`_
 
 ## Additional information
 
