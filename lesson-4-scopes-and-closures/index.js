@@ -3,10 +3,10 @@ void readmeLoader();
 
 console.log('~~MAIN START');
 const mainScopeVariable = 'MAIN SCOPE VARIABLE';
-// OUTSIDE_WORDL scope
+// OUTSIDE_WORLD scope
 {
-    console.log('~~==OUTSIDE_WORDL START==');
-    console.log('~~==OUTSIDE_WORDL END==');
+    console.log('~~==OUTSIDE_WORLD START==');
+    console.log('~~==OUTSIDE_WORLD END==');
 }
 
 // SHOP scope
