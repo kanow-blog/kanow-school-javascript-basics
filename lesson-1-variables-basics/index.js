@@ -1,8 +1,12 @@
 import readmeLoader from '../readmeContentLoader.js';
 void readmeLoader();
 
-//TASK 1
+//Task-1
 
-//TASK 2
+var firstName = 'Asli';
+console.log('TASK-1', firstName);
 
-console.log('QUESTION-1', 'PUT YOUR ANSWER HERE');
+//Task-2
+
+var age = 25;
+console.log('TASK-2', age);
