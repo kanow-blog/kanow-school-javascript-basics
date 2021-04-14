@@ -92,7 +92,19 @@ function powerOfValues(valueA, valueB) {
 }
 console.log('TASK-13', powerOfValues(8, 2));
 
-//Task-14
+//Question-1
+
+console.log('QUESTION-1', '=== is more strict equality than ==, because it also checks the types of datas.');
+
+//Question-2
+
+console.log('QUESTION-2', 'All values are truthy unless they are defined as falsy.');
+
+//Question-3
+
+console.log('QUESTION-3', 'false, 0, -0, 0n, "", null, undefined, NaN, document.all');
+
+//Question-4
 
 var a = 10; 
 var b = 20;
@@ -104,3 +116,5 @@ b *= 2; //b=30
 b++;    //b=31
 var result = a++ + --b + ++b; //11+30+31=72
 console.log('TASK-14', result);
+
+
