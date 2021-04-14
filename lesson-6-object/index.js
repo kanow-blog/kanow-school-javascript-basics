@@ -28,37 +28,39 @@ person.house = {
 console.log('TASK-3', person);
 
 //TASK-4
-/*
-person.addField = function(name, value) {
-    this[name] = value;
+
+function addField(name, value) {
+    person[name] = value;
 }
-addField[weight, '60kg');
+addField('weight', '60kg');
 console.log('TASK-4', person);
 
 //TASK-5
-do it like task-4
+
 function addFamilyMember(newPerson) {
     person.familyMembers.push(newPerson);
 }
-addFamilyMember(Kerime);
+addFamilyMember('Kerime');
 console.log('TASK-5', person);
 
 //TASK-6
 
 function addField2(name, value) {
-    person.name = value;
+    person[name] = value;
 }
-addField2(eyeColor, 'green');
+addField2('eyeColor', 'green');
 console.log('TASK-6', person);
 
 //TASK-7
 
-person.familyMembers[Kerime] = {
-    firstName: 'Kerime',
-    lastName: 'Kerr',
+addFamilyMember('Burak'); 
+person.familyMembers['Burak'] = {
+    firstName: 'Burak',
+    lastName: 'Kenan',
     age: 43
 }
-*/
+console.log('TASK-7', person);
+
 //TASK-8
 
 person.house.country = 'Void';
