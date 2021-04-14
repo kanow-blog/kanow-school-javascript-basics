@@ -15,6 +15,7 @@ var someVariable7 = {};
 var someVariable8 = function () {};
 
 //TASK 1
+console.log('TASK-1', typeof testVariable);
 
 //TASK 2
 
