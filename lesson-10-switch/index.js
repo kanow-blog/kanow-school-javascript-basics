@@ -1,6 +1,32 @@
 import readmeLoader from '../readmeContentLoader.js';
 void readmeLoader();
 
-//TASK-1
+//Task-1
 
-console.log('QUESTION-1: ', 'PUT YOUR ANSWER HERE');
+function printAnimalType(animalType) {
+    switch (animalType) {
+        case 'tiger':
+            console.log('Animal ' + animalType + ' is a cat');
+            break;
+        case 'husky':
+            console.log('Animal ' + animalType + ' is a dog');
+            break;
+        case 'spider':
+            console.log('Animal ' + animalType + ' is an invertebrate');
+            break;
+        case 'shark':
+            console.log('Animal ' + animalType + ' is a fish');
+            break;
+        default:
+            console.log(animalType + ' is an unexpected animal');
+    }
+}
+printAnimalType('tiger');
+printAnimalType('husky');
+printAnimalType('spider');
+printAnimalType('shark');
+printAnimalType('bee');
+
+//Question
+
+console.log('QUESTION', 'We should use it when we have multi cases and we want to execute the expression which matches our value.');
