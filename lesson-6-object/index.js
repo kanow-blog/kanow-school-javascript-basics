@@ -9,9 +9,9 @@ let person = {
     age: '23',
     hello: function() {
         console.log('Hello my name is: ' + this.firstName + ' ' + this.lastName);
-    }
+    }  
 }
-console.log('TASK-1', person.hello());
+console.log('TASK-1', person);
 
 //TASK-2
 
@@ -29,32 +29,28 @@ console.log('TASK-3', person);
 
 //TASK-4
 
-function addField(name, value) {
-    person[name] = value;
+person.addField = function(name, value) {
+    this[name] = value;
 }
-addField('weight', '60kg');
 console.log('TASK-4', person);
 
 //TASK-5
 
-function addFamilyMember(newPerson) {
-    person.familyMembers.push(newPerson);
+person.addFamilyMember = function(newPerson) {
+        this.familyMembers.push(newPerson);
 }
-addFamilyMember('Kerime');
+person.addFamilyMember('Kerime');
 console.log('TASK-5', person);
 
 //TASK-6
 
-function addField2(name, value) {
-    person[name] = value;
-}
-addField2('eyeColor', 'green');
+person.addField('eyeColor', 'green');
 console.log('TASK-6', person);
 
 //TASK-7
 
-addFamilyMember('Burak'); 
-person.familyMembers['Burak'] = {
+person.addFamilyMember('Burak');
+person.familyMembers[3] = {
     firstName: 'Burak',
     lastName: 'Kenan',
     age: 43
