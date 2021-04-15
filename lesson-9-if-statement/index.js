@@ -50,4 +50,7 @@ console.log('TASK-3', isEvenNumber(0));
 console.log('TASK-3', isEvenNumber(13));
 console.log('TASK-3', isEvenNumber(-2)); 
 
+//Question
+
+console.log('QUESTION', 'We should use it when it is something so simple and we do not want to waste many lines for. We should not use it when the readability and clearness of code suffers and a potential for a mistake through insufficient attention increases, for example with many chained operators.')
 
