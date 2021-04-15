@@ -62,3 +62,23 @@ for(const element of array3) {
     }
     console.log('TASK-5', element);
 }
+
+//Task-6
+
+const array6 = [1, 2, 3, 4, 5, 6];
+function printOddNumbers(value) {
+    if(value % 2 !== 0) {
+        return;
+    }
+    console.log('TASK-6', array6);
+}
+array6.forEach(printOddNumbers);
+
+//Questions
+
+console.log('QUESTION-1', 'for loop');
+
+console.log('QUESTION-2', 'for in');
+
+console.log('QUESTION-3', 'for loop is the most intuitive.');
+
