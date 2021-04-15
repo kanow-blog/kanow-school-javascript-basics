@@ -70,7 +70,7 @@ function printOddNumbers(value) {
     if(value % 2 !== 0) {
         return;
     }
-    console.log('TASK-6', array6);
+    console.log('TASK-6', value);
 }
 array6.forEach(printOddNumbers);
 
