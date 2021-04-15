@@ -13,4 +13,4 @@ console.log('TASK-2', age);
 
 //Question-1
 
-console.log('QUESTION-1', 'Variables are containers that store data inside. For example: let var1 = 12; ==> var1 variable stores number 12 inside.')
+console.log('QUESTION-1', 'A variable is a memory location. It has a name that is associated with that location. Variables are data values that can change. An example to variables: let var1 = 12;')
