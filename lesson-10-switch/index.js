@@ -26,3 +26,7 @@ printAnimalType('husky');
 printAnimalType('spider');
 printAnimalType('shark');
 printAnimalType('bee');
+
+//Question
+
+console.log('QUESTION', 'We should use it when we have multi cases and we want to execute the expression which matches our value.');
