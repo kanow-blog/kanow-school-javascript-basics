@@ -11,6 +11,6 @@ console.log('TASK-1', firstName);
 var age = 25;
 console.log('TASK-2', age);
 
-//Question
+//Question-1
 
 console.log('QUESTION-1', 'Variables are containers that store data inside. For example: let var1 = 12; ==> var1 variable stores number 12 inside.')
