@@ -21,4 +21,5 @@
 - More about **[`function`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function)**
 - More about **[return statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/return)**
 - More about **[arrow functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)**
-  > For now, you only need to know how to create an arrow functions we will talk more about the differences between arrow and regular function later. Here you can read more how
+
+> For now, you only need to know how to create an arrow functions we will talk more about the differences between arrow and regular function later. Here you can read more how
