@@ -28,6 +28,8 @@
   **`familyMembers`** field. New family member should be an object with `firstName`, `lastName` and `ageField`
 - **[TASK-8]** Change **`house`** **`country`** field of person object to _`Void`_
 - **[TASK-9]** Remove **`house`** **`zipCode`** field from **`person`** object
+- **[TASK-9]** Check does **`age`** field exists in **`person`** variable
+- **[TASK-10]** Check does **`asc1234`** field exists in **`person`** variable
 
 ## Questions
 
@@ -42,5 +44,6 @@
 - How to remove field from object: **[delete operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/delete)**
 - More about object and object built in methods you can find here: **[Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)**
 - What is the meaning of **_this_** inside object: **[this as an object method](https://developer.mozilla.org/pl/docs/Web/JavaScript/Reference/Operators/this#as_an_object_method)**
+- How to check does field exists inside object: **[in](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/in)**
 
 > I want to encourage you to play with object built in methods, they can be very useful in the future. Here you can find those methods: **[Object Static methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object#static_methods)**
