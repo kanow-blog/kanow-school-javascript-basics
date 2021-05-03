@@ -4,7 +4,7 @@
 
 - **[TASK-1]** Fill body of **_`increaseParameterByOne`_** function. This function should increase param value by one
 - **[TASK-2]** Fill body of **_`removeFisrCharacterOfString`_** function. This function should remove the first character of the parameter and return this parameter
-- **[TASK-3]** Fill body of **_`increasePersonAgeByOne`_** function. Paramter of this function is just a number holding person age not a whole person object. Then increase `personAge` by one
+- **[TASK-3]** Fill body of **_`increasePersonAgeByOne`_** function. Parameter of this function is just a number holding person age not a whole person object. Then increase `personAge` by one
 - **[TASK-4]** Fill body of **_`changePersonLastName`_** function. This function should override `person.lastName` with `newLastNamr` which you received as the parameter
 - **[TASK-5]** Fill body of **_`addPersonFamilyMember`_** function. This function should add `newMember` to already existing `person.familyMembers` array
 - **[TASK-6]** Fill body of **_`changePersonHouseNumber`_** function. First and second parameters is just a number. This function should override `personHouseNumber` received as parameter with `newHouseNumber` also received as parameter
@@ -32,6 +32,6 @@
 - More about this you can find here: **[this](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)**
 - More about references, copies and values you can find here:
   - **[Object references and copying](https://javascript.info/object-copy)**
-  - **[Values & Referencesg](https://www.educative.io/courses/step-up-your-js-a-comprehensive-guide-to-intermediate-javascript/7nAZrnYW9rG)**
+  - **[Values & References](https://www.educative.io/courses/step-up-your-js-a-comprehensive-guide-to-intermediate-javascript/7nAZrnYW9rG)**
   - **[Is JavaScript a pass-by-reference or pass-by-value language](https://stackoverflow.com/questions/518000/is-javascript-a-pass-by-reference-or-pass-by-value-language)**
   - **[JavaScript by reference vs. by value](https://stackoverflow.com/questions/6605640/javascript-by-reference-vs-by-value)**
