@@ -2,9 +2,7 @@
 
 ## Tasks
 
-> After finishing each TASK use the function you have created and print the result of this function. I encourage you to try to use different values as parameters to get different results (print results of all examples you have made).
->
-> Printing should look like that: **_`console.log('TASK-1', result);`_**
+> After finishing each TASK print the result like that: **_`console.log('TASK-1', result);`_**
 
 - **[TASK-1]** Call **_`arrowSayHello`_** method of **`person1`**. What will be the result and why?
 - **[TASK-2]** Call **_`SayHello`_** method of **`person1`**. What will be the result and why?
@@ -54,7 +52,11 @@
 
 ## Additional information
 
-- To learn more about **_this_** you can visit this link **[this](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)**
-- To learn more about **_.call_** method you can visit this link **[call](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call)**
-- To learn more about **_.apply_** method you can visit this link **[apply](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply)**
-- To learn more about **_.bind_** method you can visit this link **[bind](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind)**
+- To learn more about **_this_** you can visit this
+  link **[this](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)**
+- To learn more about **_.call_** method you can visit this
+  link **[call](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call)**
+- To learn more about **_.apply_** method you can visit this
+  link **[apply](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply)**
+- To learn more about **_.bind_** method you can visit this
+  link **[bind](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind)**
