@@ -10,7 +10,7 @@ const person1 = {
   firstName: 'Jan',
   lastName: 'Kowalski',
   age: 21,
-  arrowSayHello: () => console.log(`Hello my name is ${this.firstName} ${this.lastName} and I am ${this.age} years old`),
+  // arrowSayHello: () => console.log(`Hello my name is ${this.firstName} ${this.lastName} and I am ${this.age} years old`),
   sayHello: function () {
     console.log(`Hello my name is ${this.firstName} ${this.lastName} and I am ${this.age} years old`);
   },
@@ -42,7 +42,7 @@ const person3 = {
 }
 
 //TASK-1
-person1.arrowSayHello();
+// person1.arrowSayHello();
 console.log('TASK-1', '"Hello my name is GLOBAL FIRST NAME GLOBAL LAST NAME and I am GLOBAL AGE years old" will be printed. Because arrawSayHello is an arrow function and therefore "this" is the window object.');
 
 //TASK-2
