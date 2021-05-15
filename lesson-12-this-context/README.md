@@ -1,28 +1,27 @@
-# This context
+# This context 
 
 ## Tasks
 
 > After finishing each TASK print the result like that: **_`console.log('TASK-1', result);`_**
 
 - **[TASK-1]** Call **_`arrowSayHello`_** method of **`person1`**. What will be the result and why?
-- **[TASK-2]** Call **_`SayHello`_** method of **`person1`**. What will be the result and why?
-- **[TASK-3]** Call **_`arrowSayHello`_** method of **`person1`** with context of **`person3`**. What will be the result
-  and why?
-- **[TASK-4]** Call **_`sayHello`_** method of **`person1`** with context of **`person3`**. What will be the result and
-  why?
-- **[TASK-5]** Call **_`sayHelloAfter5sec`_** method of **`person2`** with context of **`person3`**. What will be the
-  result and why?
-- **[TASK-6]** Call **_`sayHelloAfter6sec`_** method of **`person2`** with context of **`person3`**. What will be the
-  result and why?
-- **[TASK-7]** Call **_`say2Words`_** method of **`person2`** with context of **`person3`** and with parameters:
+- **[TASK-2]** Call **_`sayHello`_** method of **`person1`**. What will be the result and why?
+- **[TASK-3]** Call **_`sayHello`_** method of **`person1`** with context of **`person3`**. What will be the result and why?
+- **[TASK-4]** Call **_`sayHelloAfter5sec`_** method of **`person2`**. What will be the result and why?
+- **[TASK-5]** Call **_`sayHelloAfter6sec`_** method of **`person2`**. What will be the result and why?
+- **[TASK-6]** Call **_`sayHelloAfter5sec`_** method of **`person2`** with context of **`person3`**. What will be the result and why?
+- **[TASK-7]** Call **_`sayHelloAfter6sec`_** method of **`person2`** with context of **`person3`**. What will be the result and why?
+- **[TASK-8]** Call **_`say2Words`_** method of **`person1`** with context of **`person3`** and with parameters:
   `'first word'`, `'second word'`. Use **`.call`**
-- **[TASK-8]** Call **_`say2Words`_** method of **`person2`** with context of **`person3`** and with parameters:
+- **[TASK-9]** Call **_`say2Words`_** method of **`person1`** with context of **`person3`** and with parameters:
   `'first word'`, `'second word'`. Use **`.apply`**
 
 ## Questions
 
 - **[QUESTION-1]** What is the difference between `.call` and `.bind` functions ?
-- **[QUESTION-2]** What would happen if you would attach _index.js_ file as not module in your _index.html_. I mean if
+- **[QUESTION-2]** Can you call **_`arrowSayHello`_** method of **`person1`** with different context (for example 
+  using `.call` or `.apply` method)?
+- **[QUESTION-3]** What would happen if you would attach _index.js_ file as not module in your _index.html_. I mean if
   you would do that:
   ```html
   <script src="./index.js"></script>
@@ -39,7 +38,7 @@
   >//
   >// void readmeLoader();
   >```
-- **[QUESTION-3]** What would happen if you would use `const` or `let` instead of `var` keyword for initialization of
+- **[QUESTION-4]** What would happen if you would use `const` or `let` instead of `var` keyword for initialization of
   these parameters:
   ```javascript
   var firstName = 'GLOBAL FIRST NAME';
@@ -47,7 +46,7 @@
   var age = 'GLOBAL AGE';
   ```
   If this change can affect your scrip result attached as module vs not as module?
-- **[QUESTION-4]** In your words try to explain the difference between `this` inside an arrow function and `this`
+- **[QUESTION-5]** In your words try to explain the difference between `this` inside an arrow function and `this`
   inside regular function ?
 
 ## Additional information
