@@ -43,7 +43,6 @@ const person3 = {
 
 //TASK-1
 console.log('TASK-1', 'PUT YOUR EXPLANATION HERE');
-person1.arrowSayHello();
 
 //TASK-2
 console.log('TASK-2', 'PUT YOUR EXPLANATION HERE');
