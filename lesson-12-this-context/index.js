@@ -10,7 +10,7 @@ const person1 = {
   firstName: 'Jan',
   lastName: 'Kowalski',
   age: 21,
-  arrowSayHello: () => console.log(`Hello my name is ${this.firstName} ${this.lastName} and I am ${this.age} years old`),
+  arrowSayHello: () => console.log(`Hello my name is ${this?.firstName} ${this?.lastName} and I am ${this?.age} years old`),
   sayHello: function () {
     console.log(`Hello my name is ${this.firstName} ${this.lastName} and I am ${this.age} years old`);
   },
@@ -31,7 +31,7 @@ const person2 = {
   sayHelloAfter6sec: function () {
     window.setTimeout(function () {
       console.log(`AFTER 6 SEC - Hello I am ${this.firstName} and I am ${this.age} years old`);
-    }, 5000)
+    }, 6000)
   }
 }
 
@@ -60,10 +60,17 @@ console.log('TASK-5', 'PUT YOUR EXPLANATION HERE');
 console.log('TASK-6', 'PUT YOUR EXPLANATION HERE');
 
 //TASK-7
+console.log('TASK-7', 'PUT YOUR EXPLANATION HERE');
 
 //TASK-8
+console.log('TASK-8', 'PUT YOUR EXPLANATION HERE');
+
+//TASK-9
+console.log('TASK-9', 'PUT YOUR EXPLANATION HERE');
+
 
 console.log('QUESTION-1: ', 'PUT YOUR ANSWER HERE');
 console.log('QUESTION-2: ', 'PUT YOUR ANSWER HERE');
 console.log('QUESTION-3: ', 'PUT YOUR ANSWER HERE');
 console.log('QUESTION-4: ', 'PUT YOUR ANSWER HERE');
+console.log('QUESTION-5: ', 'PUT YOUR ANSWER HERE');
