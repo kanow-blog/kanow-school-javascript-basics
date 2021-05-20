@@ -79,6 +79,6 @@ console.log('TASK-8', '"Person Justyna Kowalczyk is saying: Word 1:  first word 
 
 console.log('QUESTION-1: ', '"call" calls a function while "bind" creates a function.');
 console.log('QUESTION-2: ', 'No, I will have an error.')
-console.log('QUESTION-2: ', 'We need to reach HTML file before js file because js runs after HTML is parsed.');
-console.log('QUESTION-3: ', '"Hello my name is undefined undefined and I am undefined years old" would be printed for TASK-1 for both let and const.');
-console.log('QUESTION-4: ', 'This in regular function will be always a "this" of object of which you called the function. This in arrow function is always bind to the scope in which function is created');
+console.log('QUESTION-3: ', 'We need to reach HTML file before js file because js runs after HTML is parsed.');
+console.log('QUESTION-4: ', '"Hello my name is undefined undefined and I am undefined years old" would be printed for TASK-1 for both let and const.');
+console.log('QUESTION-5: ', 'This in regular function will be always a "this" of object of which you called the function. This in arrow function is always bind to the scope in which function is created');
