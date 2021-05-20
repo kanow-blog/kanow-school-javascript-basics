@@ -19,6 +19,7 @@ const nestedArrayOfNumbers = [
   [5, 7, 6, 9],
 ];
 
+
 //TASK-1
 const evenNumbers = arrayOfNumbers.filter(number => number % 2 === 0);
 console.log('TASK-1', evenNumbers);
