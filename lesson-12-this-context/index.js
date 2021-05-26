@@ -1,6 +1,6 @@
-import readmeLoader from '../readmeContentLoader.js';
+//import readmeLoader from '../readmeContentLoader.js';
 
-void readmeLoader();
+//void readmeLoader();
 
 var firstName = 'GLOBAL FIRST NAME';
 var lastName = 'GLOBAL LAST NAME';
@@ -59,7 +59,7 @@ console.log('TASK-4', '"AFTER 5 SEC - Hello I am Andrzej and I am 33 years old" 
 
 //TASK-5
 person2.sayHelloAfter6sec();
-console.log('TASK-5', '"AFTER 6 SEC - Hello I am GLOBAL FIRST NAME and I am GLOBAL AGE years old" will be printed. Because there is no defined variable inside the scope so "this" can not reach any values.');
+console.log('TASK-5', '"AFTER 6 SEC - Hello I am undefined and I am undefined years old" will be printed. Because there is no defined variable inside the scope so "this" can not reach any values.');
 
 //TASK-6
 person2.sayHelloAfter5sec.call(person3);
@@ -67,7 +67,7 @@ console.log('TASK-6', '"AFTER 5 SEC - Hello I am Justyna and I am 23 years old" 
 
 //TASK-7
 person2.sayHelloAfter6sec.call(person3);
-console.log('TASK-7', '"AFTER 6 SEC - Hello I am GLOBAL FIRST NAME and I am GLOBAL AGE years old" will be printed.');
+console.log('TASK-7', '"AFTER 6 SEC - Hello I am undefined and I am undefined years old" will be printed.');
 
 //TASK-8
 person1.say2Words.call(person3, 'first word', 'second word');
@@ -79,6 +79,6 @@ console.log('TASK-8', '"Person Justyna Kowalczyk is saying: Word 1:  first word 
 
 console.log('QUESTION-1: ', '"call" calls a function while "bind" creates a function.');
 console.log('QUESTION-2: ', 'No, I will have an error.')
-console.log('QUESTION-3: ', 'We need to reach HTML file before js file because js runs after HTML is parsed.');
+console.log('QUESTION-3: ', 'Our context of "Global this" will change.');
 console.log('QUESTION-4: ', '"Hello my name is undefined undefined and I am undefined years old" would be printed for TASK-1 for both let and const.');
 console.log('QUESTION-5: ', 'This in regular function will be always a "this" of object of which you called the function. This in arrow function is always bind to the scope in which function is created');
