@@ -1,5 +1,6 @@
 # Guessing game
->Part 1
+
+> Part 1
 
 ## Setting up a new project
 
@@ -29,16 +30,19 @@
 - You need to create a variable which will store information about a randomly generated number which user needs to guess
 - Then create a function which will take one parameter. This parameter will contain information about user guess
   (number which according to the user is the number drawn by the program). This function should return:
-    - **TOO BIG** if the number given by the user is bigger than the number drawn by the program
-    - **TOO SMALL** if the number given by the user is smaller than the number drawn by the program
-    - **YOU WIN** if the number given by the user is equal to the number drawn by the program
+  - **TOO BIG** if the number given by the user is bigger than the number drawn by the program
+  - **TOO SMALL** if the number given by the user is smaller than the number drawn by the program
+  - **YOU WIN** if the number given by the user is equal to the number drawn by the program
 - Then create an infinity loop which will ask the user for a number until he guesses the drawn number. If user guess
-  won't be a number then display information: **_'Please enter a number value'_** and continue iteration. If the 
-  user entered the number than pass this number to the function which you have created and display the returned 
-  value. If returned value is equal  to **_'YOU WIN'_** finish the game if not then continue iteration.
-  
+  won't be a number then display information: **_'Please enter a number value'_** and continue iteration. If the user
+  entered the number than pass this number to the function which you have created and display the returned value. If
+  returned value is equal to **_'YOU WIN'_** finish the game if not then continue iteration.
+
 ## Hints
 
-- For generating a random value you can use this: **[Math.random](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random)**
-- For asking and receiving user answer you can use this: **[Window.prompt](https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt)**
-- For displaying information to user you can use this: **[Window.alert](https://developer.mozilla.org/en-US/docs/Web/API/Window/alert)**
+- For generating a random value you can use
+  this: **[Math.random](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random)**
+- For asking and receiving user answer you can use
+  this: **[Window.prompt](https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt)**
+- For displaying information to user you can use
+  this: **[Window.alert](https://developer.mozilla.org/en-US/docs/Web/API/Window/alert)**
