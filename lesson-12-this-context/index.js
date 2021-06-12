@@ -1,6 +1,8 @@
 //import readmeLoader from '../readmeContentLoader.js';
 
 //void readmeLoader();
+import {animal} from "./index2.js";
+console.log(animal);
 
 var firstName = 'GLOBAL FIRST NAME';
 var lastName = 'GLOBAL LAST NAME';
@@ -82,3 +84,4 @@ console.log('QUESTION-2: ', 'No, I will have an error.')
 console.log('QUESTION-3: ', 'Our context of "Global this" will change.');
 console.log('QUESTION-4: ', '"Hello my name is undefined undefined and I am undefined years old" would be printed for TASK-1 for both let and const.');
 console.log('QUESTION-5: ', 'This in regular function will be always a "this" of object of which you called the function. This in arrow function is always bind to the scope in which function is created');
+
