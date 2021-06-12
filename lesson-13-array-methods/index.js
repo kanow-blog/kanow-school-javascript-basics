@@ -19,6 +19,7 @@ const nestedArrayOfNumbers = [
   [5, 7, 6, 9],
 ];
 
+
 //TASK-1
 const evenNumbers = arrayOfNumbers.filter(number => number % 2 === 0);
 console.log('TASK-1', evenNumbers);
@@ -28,7 +29,10 @@ const oddNumbers = arrayOfNumbers.filter(number => number % 2 !== 0);
 console.log('TASK-2', oddNumbers);
 
 //TASK-3
-const maxNumber = Math.max(...arrayOfNumbers);
+const maxNumber = arrayOfNumbers.reduce((max, num) => {
+  max = max < num ? num : max;
+  return max;
+}, -Infinity);
 console.log('TASK-3', maxNumber);
 
 //TASK-4
