@@ -54,4 +54,6 @@ be **100**
 ## Hints
 
 - Collapsible element: **[`<details>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details)**
-- How to create animation: **[animation](https://developer.mozilla.org/en-US/docs/Web/CSS/animation)**
+- How to create animation: 
+  - **[web.dev - animations](https://web.dev/learn/css/animations/)**
+  - **[mdn - animation](https://developer.mozilla.org/en-US/docs/Web/CSS/animation)**
