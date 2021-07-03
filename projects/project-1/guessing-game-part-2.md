@@ -26,9 +26,9 @@ In part two you will improve the UI of your application. Your tasks are:
   - Basing on how close user was to the correct answer display information over input:
     - **CORRECT ANSWER** → should be displayed if user guess is equal to random number. Displayed information should be
       big, bold text which will change color from green to blue in the infinity animation (use css animations)
-    - **VERY CLOSE** → should be displayed if the user was wrong by no more than **10%** of the order of magnitude + 1
+    - **VERY CLOSE** → should be displayed if the user was wrong by no more than **5%** of the order of magnitude + 1
       of the guessing number. Displayed information should be big, bold green text
-    - **CLOSE** → should be displayed if the user was wrong by no more than **50%** of the order of magnitude + 1 of the
+    - **CLOSE** → should be displayed if the user was wrong by no more than **10%** of the order of magnitude + 1 of the
       guessing number. Displayed information should be big, bold orange text
     - **FAR** → should be displayed in other cases. Displayed information should be big, bold red text
 
@@ -54,6 +54,6 @@ be **100**
 ## Hints
 
 - Collapsible element: **[`<details>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details)**
-- How to create animation: 
+- How to create animation:
   - **[web.dev - animations](https://web.dev/learn/css/animations/)**
   - **[mdn - animation](https://developer.mozilla.org/en-US/docs/Web/CSS/animation)**

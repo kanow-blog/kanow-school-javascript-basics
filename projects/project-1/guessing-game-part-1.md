@@ -5,20 +5,26 @@
 ## Setting up a new project
 
 - To set up a project create a new directory with **_guessing-game_** name and move to this project:
+
     ```bash
     mkdir guessing-game
     cd guessing-game
     ```
+
 - Initialize git repository:
+
     ```bash
     git init
     ```
+
 - Create **_index.html_** and **_index.js_** files:
+
     ```bash
     touch index.html index.js
     ```
 
 - After finishing this step, your project structure should look like that:
+
     ```bash
     guessing-game/
     ├── index.html
