@@ -8,6 +8,7 @@
 - **[TASK-4]** Fill body of **_`changePersonLastName`_** function. This function should override `person.lastName` with `newLastNamr` which you received as the parameter
 - **[TASK-5]** Fill body of **_`addPersonFamilyMember`_** function. This function should add `newMember` to already existing `person.familyMembers` array
 - **[TASK-6]** Fill body of **_`changePersonHouseNumber`_** function. First and second parameters is just a number. This function should override `personHouseNumber` received as parameter with `newHouseNumber` also received as parameter
+- **[TASK-7]** Fill body of **_`describeSumOperation`_** function. This function should take two paramters `valueA` and `valueB` and return text (let's assume that `valueA = 2`, `valueB = 3`): _sum of values **`2`** and **`3`** is equal **`5`**_.(use **[template string](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)**)
 
 ## Questions
 

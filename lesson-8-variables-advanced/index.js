@@ -56,6 +56,11 @@ let person1 = {
   }
 }
 
+//TASK-7
+function describeSumOperation(valueA, valueB) {
+  
+}
+
 increasePersonAgeByOne(person1.age); // CHECKPOIN-5
 changePersonLastName(person1, 'Nowak'); // CHECKPOIN-6
 addPersonFamilyMember(person1.familiMembers, 'Andrzej'); // CHECKPOIN-7
