@@ -19,6 +19,7 @@
 - **[TASK-11]** Create a function which will take two parameters and check does first parameter is bigger or equal then second parameter if yes return **`true`** otherwise return **`false`**
 - **[TASK-12]** Create a function which will take two parameters and check does first parameter is smaller or equal then second parameter if yes return **`true`** otherwise return **`false`**
 - **[TASK-13]** Create a function which will take two parameters and return exponentiation result of those two parameters. First parameter should be a power base and second should be the exponent of the power (**[POWER](https://www.mathplanet.com/Oldsite/media/36392/bild2.jpg)**)
+- **[TASK-14]** Create a function which will take one parameter and return `'This value is null or undefined'` if value of this paramter is **null** or **undefined** otherwise return this parameter value (use **[Nullish coalescing operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing_operator)**)
 
 ## Questions
 
@@ -28,8 +29,8 @@
   Truthy types are types which will return **`true`** after `==` to **`true`**. For example:
 
   ```javascript
-   const someText = 'text';
-   someText == true // will return true
+  const someText = 'text';
+  someText == true; // will return true
   ```
 
 - **[QUESTION-3]** What are all falsy types.
@@ -37,33 +38,45 @@
   Falsy types are types which will return **`true`** after `==` to **`false`**. For example:
 
   ```javascript
-   const someText = '';
-   someText == false // will return true
+  const someText = '';
+  someText == false; // will return true
   ```
 
 - **[QUESTION-4]** What will be the result of this code:
 
   ```javascript
-  var a = 10;
-  var b = 20;
+  let a = 10;
+  let b = 20;
   a += 10;
   b -= 5;
   a /= 2;
   b *= 2;
   ++a;
   b++;
-  var result = a++ + --b + ++b;
+  const result = a++ + --b + ++b;
   ```
 
   As the answer you should write a comment what will be under each variable. For example:
 
   ```javascript
-  var a = 10;
-  var b = 20;
-  var result = a++ + --b;
+  let a = 10;
+  let b = 20;
+  let result = a++ + --b;
   ```
 
   ANSWER: **`// result = 10 + 19`**
+
+- **[QUESTION-5]** What is the value of x variable and why ?
+
+  ```javascript
+  const person = {
+    name: 'Jan',
+    age: 12,
+  };
+  const result = person?.house?.addres;
+  ```
+
+  > What is [optionl chaning **`?.`**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining) operator
 
 ## Additional information
 
