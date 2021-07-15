@@ -15,8 +15,35 @@ body {
     height: 100vh;
 }
 
-a {
+details > summary {
+    list-style: none;
+}
+details > summary::marker {
+    display: none;
+}
+
+a,
+details summary {
+    margin: auto;
+    text-align: center;
+    max-width: 90%;
     color: #10ff4c;
+    opacity: 0.5;
+    transition: opacity 0.5s ease-in-out;
+}
+
+a:hover,
+details:hover summary,
+details[open] summary {
+    opacity: 1;
+}
+
+details summary i {
+    text-align: left;
+}
+
+details[open] summary i {
+    display: none;
 }
 
 ul {
@@ -27,14 +54,29 @@ ul {
     box-sizing: border-box;;
 }
 
+.main-title {
+    text-align: center;
+    font-size: 3rem;
+}
+
+.chapters {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
 .chapter {
+    flex: 1;
+    padding: 1rem 2rem;
     cursor: pointer;
 }
 
 .lessons {
     text-align: center;
     list-style-type: none;
-    padding: 0;
+    padding: 1rem 0 0;
 }
 
 .lessons li {
@@ -43,6 +85,7 @@ ul {
 
 .lesson-title {
     text-align: center;
+    font-size: 3rem;
 }
 
 .lesson-description {
