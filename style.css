@@ -27,6 +27,10 @@ ul {
     box-sizing: border-box;;
 }
 
+.chapter {
+    cursor: pointer;
+}
+
 .lessons {
     text-align: center;
     list-style-type: none;
