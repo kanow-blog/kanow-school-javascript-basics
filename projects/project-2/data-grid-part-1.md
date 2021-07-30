@@ -41,7 +41,7 @@ functionalities to this project like filters, search or sorting.
 
 In part one you will need to
 
-- fetch data under this url: _[https://raw.githubusercontent.com/kanow-blog/kanow-school-javascript-basics/master/projects/project-2/persons-data.json](https://raw.githubusercontent.com/kanow-blog/kanow-school-javascript-basics/master/projects/project-2/persons-data.json)_ (to fetch data you need to send **GET** request). Structure of this data looks like that:
+- fetch data under this url: _[https://raw.githubusercontent.com/kanow-blog/kanow-school-javascript-basics/master/projects/project-2/personData/persons-data-0.json](https://raw.githubusercontent.com/kanow-blog/kanow-school-javascript-basics/master/projects/project-2/personData/persons-data-0.json)_ (to fetch data you need to send **GET** request). Structure of this data looks like that:
 
   ```typescript
   type Person = {
