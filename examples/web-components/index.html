@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset='utf-8'>
+  <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+  <title>Web component example</title>
+  <meta name='viewport' content='width=device-width, initial-scale=1'>
+</head>
+
+<body>
+  <people-list></people-list>
+  <section>
+    <h2>List data form:</h2>
+    <form id="list-item-data">
+      <div>
+        <label for="first-name">Enter your name: </label>
+        <input type="text" name="first-name" id="first-name" required>
+      </div>
+      <div>
+        <label for="email">Enter your last name: </label>
+        <input type="text" name="last-name" id="last-name" required>
+      </div>
+      <button type="submit" id="add-item-btn">Add item</button>
+    </form>
+  </section>
+  <section>
+    <h2>List data viewer:</h2>
+    <button id="raw-data-btn">Check list raw data</button>
+    <pre id="raw-data"></pre>
+  </section>
+  <script type="module" src='./index.js'></script>
+</body>
+
+</html>
