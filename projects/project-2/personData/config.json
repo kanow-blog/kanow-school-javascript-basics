@@ -1,0 +1,142 @@
+{
+  "dataUrl": "https://raw.githubusercontent.com/kanow-blog/kanow-school-javascript-basics/master/projects/project-2/personData/persons-data-0.json",
+  "columns": [
+    {
+      "id": "id",
+      "displayName": "Id",
+      "type": "STRING"
+    },
+    {
+      "id": "gender",
+      "displayName": "Gender",
+      "type": "STRING"
+    },
+    {
+      "id": "firstName",
+      "displayName": "First name",
+      "type": "STRING"
+    },
+    {
+      "id": "lastName",
+      "displayName": "Last name",
+      "type": "STRING"
+    },
+    {
+      "id": "birthDate",
+      "displayName": "Birth date",
+      "type": "DATE"
+    },
+    {
+      "id": "age",
+      "displayName": "Age",
+      "type": "NUMBER"
+    },
+    {
+      "id": "email",
+      "displayName": "Email",
+      "type": "STRING"
+    },
+    {
+      "id": "address",
+      "displayName": "Address",
+      "type": "OBJECT",
+      "summary": "state + city + street",
+      "collapsed": false,
+      "children": [
+        {
+          "id": "country",
+          "displayName": "Country",
+          "type": "STRING"
+        },
+        {
+          "id": "state",
+          "displayName": "State",
+          "type": "STRING"
+        },
+        {
+          "id": "city",
+          "displayName": "City",
+          "type": "STRING"
+        },        
+        {
+          "id": "street",
+          "displayName": "Street",
+          "type": "STRING"
+        },
+        {
+          "id": "houseNumber",
+          "displayName": "House number",
+          "type": "NUMBER"
+        }
+      ] 
+    }
+  ],
+  "columnsVisiblity": [
+    {
+      "id": "id",
+      "visible": false
+    },
+    {
+      "id": "gender",
+      "visible": true
+    },
+    {
+      "id": "firstName",
+      "visible": true
+    },
+    {
+      "id": "lastName",
+      "visible": true
+    },
+    {
+      "id": "birthDate",
+      "visible": false
+    },
+    {
+      "id": "age",
+      "visible": false
+    },
+    {
+      "id": "email",
+      "visible": false
+    },
+    {
+      "id": "address",
+      "visible": true
+    },
+    {
+      "id": "country",
+      "visible": true
+    },
+    {
+      "id": "state",
+      "visible": true
+    },
+    {
+      "id": "city",
+      "visible": true
+    },        
+    {
+      "id": "street",
+      "visible": true
+    },
+    {
+      "id": "houseNumber",
+      "visible": true
+    }
+  ],
+  "sortingRules": [
+    {
+      "id": "firstName",
+      "direction": "ASC"
+    },
+    {
+      "id": "lastName",
+      "direction": "DESC"
+    },
+    {
+      "id": "age",
+      "direction": "ASC"
+    }
+  ]
+}
