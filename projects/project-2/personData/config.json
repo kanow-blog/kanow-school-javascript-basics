@@ -40,7 +40,7 @@
       "id": "address",
       "displayName": "Address",
       "type": "OBJECT",
-      "summary": "state + city + street",
+      "summary": "state+city+street",
       "collapsed": false,
       "children": [
         {
