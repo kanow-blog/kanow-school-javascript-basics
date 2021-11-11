@@ -4,37 +4,44 @@
     {
       "id": "id",
       "displayName": "Id",
-      "type": "STRING"
+      "type": "STRING",
+      "columnIndex": 0
     },
     {
       "id": "gender",
       "displayName": "Gender",
-      "type": "STRING"
+      "type": "STRING",
+      "columnIndex": 1
     },
     {
       "id": "firstName",
       "displayName": "First name",
-      "type": "STRING"
+      "type": "STRING",
+      "columnIndex": 2
     },
     {
       "id": "lastName",
       "displayName": "Last name",
-      "type": "STRING"
+      "type": "STRING",
+      "columnIndex": 3
     },
     {
       "id": "birthDate",
       "displayName": "Birth date",
-      "type": "DATE"
+      "type": "DATE",
+      "columnIndex": 4
     },
     {
       "id": "age",
       "displayName": "Age",
-      "type": "NUMBER"
+      "type": "NUMBER",
+      "columnIndex": 5
     },
     {
       "id": "email",
       "displayName": "Email",
-      "type": "STRING"
+      "type": "STRING",
+      "columnIndex": 6
     },
     {
       "id": "address",
@@ -42,31 +49,37 @@
       "type": "OBJECT",
       "summary": "state+city+street",
       "collapsed": false,
+      "columnIndex": 7,
       "children": [
         {
           "id": "country",
           "displayName": "Country",
-          "type": "STRING"
+          "type": "STRING",
+          "columnIndex": 0
         },
         {
           "id": "state",
           "displayName": "State",
-          "type": "STRING"
+          "type": "STRING",
+          "columnIndex": 1
         },
         {
           "id": "city",
           "displayName": "City",
-          "type": "STRING"
+          "type": "STRING",
+          "columnIndex": 2
         },        
         {
           "id": "street",
           "displayName": "Street",
-          "type": "STRING"
+          "type": "STRING",
+          "columnIndex": 3
         },
         {
           "id": "houseNumber",
           "displayName": "House number",
-          "type": "NUMBER"
+          "type": "NUMBER",
+          "columnIndex": 4
         }
       ] 
     }
