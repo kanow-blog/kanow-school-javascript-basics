@@ -38,7 +38,7 @@
           "displayName": "Last name",
           "type": "STRING",
           "columnIndex": 2
-        },
+        }
       ]
     },
     {
