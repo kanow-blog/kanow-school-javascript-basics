@@ -1,0 +1,167 @@
+{
+  "dataUrl": "https://raw.githubusercontent.com/kanow-blog/kanow-school-javascript-basics/master/projects/project-2/personData/dataset-2/data.json",
+  "columns": [
+    {
+      "id": "id",
+      "displayName": "Id",
+      "type": "STRING",
+      "columnIndex": 0
+    },
+    {
+      "id": "gender",
+      "displayName": "Gender",
+      "type": "STRING",
+      "columnIndex": 1
+    },
+    {
+      "id": "fullName",
+      "displayName": "Full name",
+      "type": "OBJECT",
+      "summary": "firstName+lastName",
+      "collapsed": false,
+      "columnIndex": 2,
+      "children": [
+        {
+          "id": "firstName",
+          "displayName": "First name",
+          "type": "STRING",
+          "columnIndex": 0
+        },
+        {
+          "id": "middleName",
+          "displayName": "First name",
+          "type": "STRING",
+          "columnIndex": 1
+        },
+        {
+          "id": "lastName",
+          "displayName": "Last name",
+          "type": "STRING",
+          "columnIndex": 2
+        },
+      ]
+    },
+    {
+      "id": "birthDate",
+      "displayName": "Birth date",
+      "type": "DATE",
+      "columnIndex": 3
+    },
+    {
+      "id": "age",
+      "displayName": "Age",
+      "type": "NUMBER",
+      "columnIndex": 4
+    },
+    {
+      "id": "email",
+      "displayName": "Email",
+      "type": "STRING",
+      "columnIndex": 5
+    },
+    {
+      "id": "address",
+      "displayName": "Address",
+      "type": "OBJECT",
+      "summary": "state+city+street",
+      "collapsed": false,
+      "columnIndex": 6,
+      "children": [
+        {
+          "id": "country",
+          "displayName": "Country",
+          "type": "STRING",
+          "columnIndex": 0
+        },
+        {
+          "id": "state",
+          "displayName": "State",
+          "type": "STRING",
+          "columnIndex": 1
+        },
+        {
+          "id": "city",
+          "displayName": "City",
+          "type": "STRING",
+          "columnIndex": 2
+        },        
+        {
+          "id": "street",
+          "displayName": "Street",
+          "type": "STRING",
+          "columnIndex": 3
+        },
+        {
+          "id": "houseNumber",
+          "displayName": "House number",
+          "type": "NUMBER",
+          "columnIndex": 4
+        }
+      ] 
+    }
+  ],
+  "columnsVisiblity": [
+    {
+      "id": "id",
+      "visible": false
+    },
+    {
+      "id": "gender",
+      "visible": true
+    },
+    {
+      "id": "fullName",
+      "visible": true
+    },
+    {
+      "id": "birthDate",
+      "visible": false
+    },
+    {
+      "id": "age",
+      "visible": false
+    },
+    {
+      "id": "email",
+      "visible": false
+    },
+    {
+      "id": "address",
+      "visible": true
+    },
+    {
+      "id": "country",
+      "visible": true
+    },
+    {
+      "id": "state",
+      "visible": true
+    },
+    {
+      "id": "city",
+      "visible": true
+    },        
+    {
+      "id": "street",
+      "visible": true
+    },
+    {
+      "id": "houseNumber",
+      "visible": true
+    }
+  ],
+  "sortingRules": [
+    {
+      "id": "firstName",
+      "direction": "ASC"
+    },
+    {
+      "id": "lastName",
+      "direction": "DESC"
+    },
+    {
+      "id": "age",
+      "direction": "ASC"
+    }
+  ]
+}
