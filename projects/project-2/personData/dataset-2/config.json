@@ -29,7 +29,7 @@
         },
         {
           "id": "middleName",
-          "displayName": "First name",
+          "displayName": "Middle name",
           "type": "STRING",
           "columnIndex": 1
         },
