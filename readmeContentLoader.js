@@ -24,6 +24,6 @@ export default async function loadReadme() {
         }
         taskContent.push(...translatedChunk);
     }
-    document.querySelector('#task-content').innerHTML = marked(taskContent.join(''));
+    document.querySelector('#task-content').innerHTML = marked.parse(taskContent.join(''));
   });
 } 
