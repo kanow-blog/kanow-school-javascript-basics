@@ -55,7 +55,7 @@ Please reuse code from **Part 1**.
   const sortRule = {
     field: 'firstName',
     type: 'STRING',
-    direction: 'ASC';
+    direction: 'ASC'
   }
   ```
 - Sort config example:

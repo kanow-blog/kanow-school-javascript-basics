@@ -41,7 +41,7 @@ functionalities to this project like filters, search or sorting.
 
 In part one you will need to
 
-- fetch data under this url: _[https://raw.githubusercontent.com/kanow-blog/kanow-school-javascript-basics/master/projects/project-2/personData/persons-data-0.json](https://raw.githubusercontent.com/kanow-blog/kanow-school-javascript-basics/master/projects/project-2/personData/persons-data-0.json)_ (to fetch data you need to send **GET** request). Structure of this data looks like that:
+- fetch data under this url: _[https://raw.githubusercontent.com/kanow-blog/kanow-school-javascript-basics/master/projects/project-2/datasets/dataset-1/data.json](https://raw.githubusercontent.com/kanow-blog/kanow-school-javascript-basics/master/projects/project-2/datasets/dataset-1/data.json)_ (to fetch data you need to send **GET** request). Structure of this data looks like that:
 
   ```typescript
   type Person = {
@@ -62,11 +62,11 @@ In part one you will need to
   };
   ```
 
-- Then you will nedd to display this data in a table view. **`address`** field shpould be collapsible. By default it should show summary of addres which should look like that: _**`[city], [street], [house]`**_ for exmaple: _**Cecilia, Bay Avenue 376**_. If you click address header then you need to expand this header and display detaild data in separted columns
+- Then you will need to display this data in a table view. **`address`** field should be collapsible. By default, it should show summary of address which should look like that: _**`[city], [street], [house]`**_ for example: _**Cecilia, Bay Avenue 376**_. If you click address header then you need to expand this header and display detailed data in separated columns
 
 ## Hints
 
-- You can use **`data-*`** attribute to recognize cell and rwos which should be visible or hidden. By togling this attribute you can collapse or expand you column header. So for example if user click header name of collapisble column you can toggle this attribute and expand column (and vice versa).
+- You can use **`data-*`** attribute to recognize cell and rows which should be visible or hidden. By tooling this attribute you can collapse or expand you column header. So for example if user click header name of collapsible column you can toggle this attribute and expand column (and vice versa).
   - More about: _**[data-\*](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/data-*)**_
   - More about attr _**[Attribute selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors)**_
 - To fetch data you shoud use this: _**[fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)**_
