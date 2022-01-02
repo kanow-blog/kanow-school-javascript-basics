@@ -5,7 +5,8 @@
       "id": "id",
       "displayName": "Id",
       "type": "STRING",
-      "columnIndex": 0
+      "columnIndex": 0,
+      "visible": false
     },
     {
       "id": "gender",
@@ -45,7 +46,8 @@
       "id": "birthDate",
       "displayName": "Birth date",
       "type": "DATE",
-      "columnIndex": 3
+      "columnIndex": 3,
+      "visible": false
     },
     {
       "id": "age",
@@ -64,7 +66,7 @@
       "displayName": "Address",
       "type": "OBJECT",
       "summary": "state+city+street",
-      "collapsed": false,
+      "expanded": false,
       "columnIndex": 6,
       "children": [
         {
@@ -98,56 +100,6 @@
           "columnIndex": 4
         }
       ] 
-    }
-  ],
-  "columnsVisiblity": [
-    {
-      "id": "id",
-      "visible": false
-    },
-    {
-      "id": "gender",
-      "visible": true
-    },
-    {
-      "id": "fullName",
-      "visible": true
-    },
-    {
-      "id": "birthDate",
-      "visible": false
-    },
-    {
-      "id": "age",
-      "visible": false
-    },
-    {
-      "id": "email",
-      "visible": false
-    },
-    {
-      "id": "address",
-      "visible": true
-    },
-    {
-      "id": "country",
-      "visible": true
-    },
-    {
-      "id": "state",
-      "visible": true
-    },
-    {
-      "id": "city",
-      "visible": true
-    },        
-    {
-      "id": "street",
-      "visible": true
-    },
-    {
-      "id": "houseNumber",
-      "visible": true
     }
   ],
   "sortingRules": [
