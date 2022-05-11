@@ -104,14 +104,6 @@
   ],
   "sortingRules": [
     {
-      "id": "firstName",
-      "direction": "ASC"
-    },
-    {
-      "id": "lastName",
-      "direction": "DESC"
-    },
-    {
       "id": "age",
       "direction": "ASC"
     }
