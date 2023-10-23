@@ -67,6 +67,8 @@ algorithm should recommend this scenario ***4*** as the most optimal.
 
 ## Design proposition
 
+![image info](../../assets/images/multidiscount-calculator-desktop.webp)
+
 ## Hints
 
 - To get more familiar with ***`<form>`*** that you can use to collect user input, you can check this
