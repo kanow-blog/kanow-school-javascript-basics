@@ -25,7 +25,8 @@ Please reuse code from **Part 3**.
   . You need to copy these files to the root directory of your project and make sure all your javascript files are
   nested in _**./src**_ directory. Then you can run `npm i` in your project root directory. After running this command
   you should be able to use:
-  - `npm run serve-dev` -> listen on changes in files from _**`./src`**_ directory code and recompile every time if detects any change
+  - `npm run serve-dev` -> listen on changes in files from _**`./src`**_ directory code and recompile every time if
+    detects any change
   - `npm run lint` -> check do you have any errors in your code
   - `npm run lint-and-fix` -> to fix all auto-fixable errors
   > Do not forget to change path to your source javascript file in `index.html` to _**`./dist/index.js`**_
@@ -40,6 +41,8 @@ Please reuse code from **Part 3**.
 - If you haven't used TypeScript before try these resources:
   - Fast introducing to TypeScript
     Essentials: [Kamil Myśliwiec - Kurs TypeScript(Only PL)](https://kamilmysliwiec.com/tag/kurs-typescript)
+  - Fas introducing to TypeScript
+    Essentials [Matt Pocock - Beginner's TypeScript](https://www.totaltypescript.com/tutorials/beginners-typescript)
   - Longer version of TypeScript
     introduction [Microsoft - Getting started with TypeScript](https://docs.microsoft.com/en-us/learn/paths/build-javascript-applications-typescript/)
   - Difference between **any** and **unknown**:
