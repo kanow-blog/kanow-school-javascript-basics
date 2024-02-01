@@ -17,9 +17,9 @@ Reuse you old project and follow below instructions
 
 ## Requirements
 
-- Running `npm run typecheck` doesn't produce any errors
-- Running `npm run lint` doesn't produce any errors
-- Running `npm run build` creates a valid build that can be used by the end user
+1. Running `npm run typecheck` doesn't produce any errors
+2. Running `npm run lint` doesn't produce any errors
+3. Running `npm run build` creates a valid build that can be used by the end user
 
 ## Hints
 
