@@ -67,7 +67,7 @@ algorithm should recommend this scenario ***4*** as the most optimal.
 
 ## Design proposition
 
-![image info](../../assets/images/multidiscount-calculator-desktop.webp)
+![MultiDiscount Calculator v1](../../assets/images/multidiscount-calculator-part-1-desktop.webp)
 
 ## Hints
 
