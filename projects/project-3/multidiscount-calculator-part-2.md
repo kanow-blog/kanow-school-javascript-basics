@@ -36,3 +36,6 @@ Reuse you old project and follow below instructions
     maybe keep interfaces and enums connected with their source class/components
 - What is prettier: [Prettier](https://prettier.io/)
 - What is Eslint: [Eslint](https://eslint.org/)
+- What is Vite:
+  - Documentation: [Why Vite?](https://vitejs.dev/guide/why.html)
+  - Short video about vite: [Vite in 100 Seconds](https://www.youtube.com/watch?v=KCrXgy8qtjM&t=2s)
