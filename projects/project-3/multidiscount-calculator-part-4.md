@@ -18,8 +18,9 @@ Please reuse code from **Part 3**.
 
 1. Running `npm run prettyprint` doesn't produce any errors
 2. Running `npm run lint` doesn't produce any errors
-3. Running `npm run build` creates a valid build that can be used by the end user
-4. You can access **multidiscount-calculator** from GitHub pages
+3. Running `npm run test` doesn't produce any errors
+4. Running `npm run build` creates a valid build that can be used by the end user
+5. You can access **multidiscount-calculator** from GitHub pages
 
 ## Hints
 
